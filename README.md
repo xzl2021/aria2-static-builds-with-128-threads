@@ -4,12 +4,13 @@ aria2 static builds for GNU/Linux 64bit
 ### aria2 1.32.0 builds (with OpenSSL) with 128 threads:
 
   * **GNU/Linux downloads:**
-    * aria2-1.32.0-linux-gnu-64bit-build1.tar.bz2
+    * [aria2-1.32.0-linux-gnu-64bit-build1.tar.bz2](https://github.com/xzl2021/aria2-static-builds-with-128-threads/releases/download/v1.32.0/aria2-1.32.0-linux-gnu-64bit-build1.tar.bz2)
 
 ### How to install:
 
   * **GNU/Linux instructions:**
     * Open the terminal.
+    * Download the package: `wget https://github.com/xzl2021/aria2-static-builds-with-128-threads/releases/download/v1.32.0/aria2-1.32.0-linux-gnu-64bit-build1.tar.bz2`
     * Type the command: `tar jxvf aria2-1.32.0-linux-gnu-64bit-build1.tar.bz2`
     * Change the directory: `cd aria2-1.32.0-linux-gnu-64bit-build1`
     * Finally, install the static binary (as root): `make install`
